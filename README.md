@@ -111,7 +111,7 @@ python3 main.py
 ```
 
 ### Controls
-- Press **'q'** to quit the application
+- Press **`q`** or **`ESC`** to quit application
 
 ### How it works
 
