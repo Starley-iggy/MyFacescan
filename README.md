@@ -163,7 +163,7 @@ TONGUE_OUT_THRESHOLD = 0.03  # Adjust this value based on your needs
 
 ```bash
 # Clone the repository
-git clone https://github.com/aaronhubhachen/simple-mediapipe-project.git
+git clone https://github.com/Starley-iggy/MyFacescan.git
 cd simple-mediapipe-project
 
 # Install dependencies (Python 3.11)
