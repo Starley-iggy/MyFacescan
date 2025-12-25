@@ -1,5 +1,11 @@
 # Tongue Detection Meme Display
 
+[![Python](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/Starley-iggy/MyFacescan?style=social)](https://github.com/Starley-iggy/MyFacescan/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Starley-iggy/MyFacescan?style=social)](https://github.com/Starley-iggy/MyFacescan/network)
+[![GitHub watchers](https://img.shields.io/github/watchers/Starley-iggy/MyFacescan?style=social)](https://github.com/Starley-iggy/MyFacescan/watchers)
+
 A fun Python application using MediaPipe and OpenCV that detects when your tongue is out and displays different meme images in real-time.
 
 **GitHub:**  Orginal version : 
