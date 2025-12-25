@@ -2,7 +2,13 @@
 
 A fun Python application using MediaPipe and OpenCV that detects when your tongue is out and displays different meme images in real-time.
 
-**GitHub:** [https://github.com/aaronhubhachen/simple-mediapipe-project](https://github.com/aaronhubhachen/simple-mediapipe-project)
+**GitHub:**  Orginal version : 
+
+https://github.com/aaronhubhachen/simple-mediapipe-project
+
+ Upgraded Version :
+ 
+ https://github.com/Starley-iggy/MyFacescan
 
 Good for learning about:
 - MediaPipe Face Mesh detection
